@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="project2-simple-math-quiz-game-console-cpp.vcxproj" />
+</Solution>
